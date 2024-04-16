@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudiante de DAM
+Estudiante de Desarrollo de aplicaciones multiplataforma
 
 
 ## 🌐 Socials:
